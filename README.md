@@ -1,12 +1,13 @@
 # DotNet_Core_Gererics_And_Hierarchy_Example
 
-To run just:
+#### To run just:
 ```
 dotnet restore
 dotnet run
 ```
 
-Coded and running using the enviroment:
+#### Coded and running using the enviroment:
+
 .NET Core SDK (reflecting any global.json):
  Version:   3.1.100
  Commit:    cd82f021f4
