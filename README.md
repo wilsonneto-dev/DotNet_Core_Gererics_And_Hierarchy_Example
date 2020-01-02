@@ -1,4 +1,4 @@
-# DotNet_Core_Gererics_And_Hierarchy_Example
+A simple test and example using generics with complex class hierarchy. 
 
 #### To run just:
 ```
@@ -29,3 +29,11 @@ Host (useful for support):
 .NET Core runtimes installed:
   Microsoft.AspNetCore.App 3.1.0 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
   Microsoft.NETCore.App 3.1.0 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+-----  
+:relaxed:  
+by: Wilson Neto  
+[Linkedin](https://linkedin.com/in/wilsonnetobr/)
+[Blog](http://wilsonneto.com.br)
+[Github](https://github.com/wilsonneto-dev)  
